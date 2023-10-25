@@ -12,6 +12,7 @@ namespace Classes
         {
             Console.WriteLine("Customer Added");
         }
+
         public void Update()
         {
             Console.WriteLine("Customer Updated");
