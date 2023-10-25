@@ -15,3 +15,8 @@ customer.City = "Antalya";
 customer.Id = 1;
 customer.FirsName = "Kamil";
 customer.LastName = "Deniz";
+
+Customer customer2 = new Customer
+{
+    Id = 2,FirsName="Engin",LastName="Demiroğ",City="Ankara"
+};
