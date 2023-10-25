@@ -8,8 +8,11 @@ namespace Classes
 {
     public class Customer
     {
+        ////Field
+        //public string FirsName;
+        //Property
         public int Id { get; set; }
-        public string FirsName { get; set; }
+      //  public string FirsName { get; set; }
         public string LastName { get; set; }
         public string City { get; set; }
     }
