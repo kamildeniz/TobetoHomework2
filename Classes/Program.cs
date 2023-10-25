@@ -9,3 +9,9 @@ customerManager.Update();
 ProductManager productManager = new ProductManager();
 productManager.Add();
 productManager.Update();
+
+Customer customer = new Customer();
+customer.City = "Antalya";
+customer.Id = 1;
+customer.FirsName = "Kamil";
+customer.LastName = "Deniz";
